@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T02:07:53.126Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="DFZ4cnqKRqSyfNswVlcr" version="16.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-27T02:09:04.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="ZhXzrPafSaAMxAEoQqXb" version="16.4.7" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="798" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1152" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,9 +15,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y_zakcnJnjhkNf_73qmC-123" value="Community Lead &lt;br&gt;&amp;amp; Co-Leads" style="rounded=1;whiteSpace=wrap;html=1;container=1;arcSize=12;verticalAlign=top;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="680" y="50" width="280" height="40" as="geometry">
-            <mxRectangle x="680" y="50" width="280" height="200" as="alternateBounds" />
+        <mxCell id="y_zakcnJnjhkNf_73qmC-123" value="Community Lead &lt;br&gt;&amp;amp; Co-Leads" style="rounded=1;whiteSpace=wrap;html=1;container=1;arcSize=12;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="680" y="50" width="280" height="200" as="geometry">
+            <mxRectangle x="680" y="50" width="280" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="y_zakcnJnjhkNf_73qmC-126" value="Duties of the Lead &amp;amp; Co-leads&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 8px&quot;&gt;&lt;span&gt;Community Outreach &amp;amp; Relations&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 8px&quot;&gt;&lt;span&gt;Community Decision Making&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 8px&quot;&gt;&lt;span&gt;Determine &amp;amp; formulate rules to be followed by the members that would reflect the community Ideology (Diversity, Inclusion, Collaboration, etc)&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 8px&quot;&gt;Ensure Community Ideology&amp;nbsp;is followed&lt;/li&gt;&lt;li style=&quot;font-size: 8px&quot;&gt;Conduct meets for member&#39;s Personal Growth (Personal Branding, Improve CV, awareness, etc)&lt;/li&gt;&lt;li style=&quot;font-size: 8px&quot;&gt;&lt;span&gt;Address Issues in the Community&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="y_zakcnJnjhkNf_73qmC-123">
