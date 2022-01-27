@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T02:17:09.519Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="16.4.7" etag="m9DpaEvaMlXIlYiUOztu" type="github"><diagram id="bG66xfjcMLrIr8piFfw_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-27T02:23:51.405Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="XjSwwV6CnqIvuK39vYo2" version="16.4.7" type="github">
+  <diagram id="bG66xfjcMLrIr8piFfw_" name="Page-1">
+    <mxGraphModel dx="864" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zZ8QltO0cnd-RqoXb6pr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=35;" edge="1" parent="1" source="zZ8QltO0cnd-RqoXb6pr-1" target="zZ8QltO0cnd-RqoXb6pr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ8QltO0cnd-RqoXb6pr-1" value="&lt;font style=&quot;font-size: 35px&quot;&gt;SUDO SANINS&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;container=1;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="280" y="20" width="360" height="290" as="geometry">
+            <mxRectangle x="280" y="20" width="360" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ8QltO0cnd-RqoXb6pr-3" value="&lt;div style=&quot;font-size: 22px&quot;&gt;&lt;span&gt;Roles&amp;nbsp;&lt;/span&gt;&lt;span&gt;Assigned to this level&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Community leads and Co-leads&lt;/li&gt;&lt;li&gt;All Domain Leads&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="zZ8QltO0cnd-RqoXb6pr-1">
+          <mxGeometry y="99.99555555555555" width="359.99999999999994" height="109.55555555555556" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ8QltO0cnd-RqoXb6pr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=35;" edge="1" parent="1" source="zZ8QltO0cnd-RqoXb6pr-4" target="zZ8QltO0cnd-RqoXb6pr-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ8QltO0cnd-RqoXb6pr-4" value="&lt;font style=&quot;font-size: 35px&quot;&gt;SANINS&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;container=1;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="360" height="290" as="geometry">
+            <mxRectangle x="280" y="20" width="360" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ8QltO0cnd-RqoXb6pr-5" value="&lt;div style=&quot;font-size: 22px&quot;&gt;&lt;span&gt;Roles&amp;nbsp;&lt;/span&gt;&lt;span&gt;Assigned to this level&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;All Domain Co-Lead&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;All Domain Team members&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="zZ8QltO0cnd-RqoXb6pr-4">
+          <mxGeometry y="99.99555555555555" width="359.99999999999994" height="109.55555555555556" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ8QltO0cnd-RqoXb6pr-7" value="&lt;font style=&quot;font-size: 35px&quot;&gt;SANINS&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;container=1;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="280" y="880" width="360" height="290" as="geometry">
+            <mxRectangle x="280" y="20" width="360" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ8QltO0cnd-RqoXb6pr-8" value="&lt;div style=&quot;font-size: 22px&quot;&gt;&lt;span&gt;Roles&amp;nbsp;&lt;/span&gt;&lt;span&gt;Assigned to this level&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;N/A&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Includes budding tech enthusiasts&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="zZ8QltO0cnd-RqoXb6pr-7">
+          <mxGeometry y="99.99555555555555" width="359.99999999999994" height="109.55555555555556" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
